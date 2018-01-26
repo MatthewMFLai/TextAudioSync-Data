@@ -1,0 +1,59 @@
+﻿fngs Loom Large
+:,- -\umbers
+
+: ::-- .orporate board of a retail compan-.'
+- :: -sand stores. Half of the stores are i:-
+--- -::-: half in rural areas. At the behest c:
+--..:.: :onducted a study on shoplifting ar'rJ r.
+---- ..:jrrqs. Projected onto the wall in fron:
+- ::.. -:e hundred branches with the highes:
+,r-r. r-i sales. In bold letters above them is h:.
+---.: :: "The branches with the highest thet:
+-: : -.:.:.1 areas." After a moment of silence anj
+-i :. ::rst to speak: "Ladies and gentlemen.
+:-:,--:. From now on, we will install additiona-
+.-- :-rral branches. Let's see those hillbillie.
+:-. D r u'e all agree?"
+: :-:letely. You ask the consultant to call u:
+:-::;s u-ith the lowest theft rates. After som=
+= -:.i appears. Surprise, surprise: The shop.
+'-:t of shoplifting in relation to sales are alsc
+a-; location isn't the deciding factor," you be-
+:'.',':rat smugly as you gaze around the table a:
+
+11*:f I]{}h*:ili
+
+i-our colleagues. "what counts is the size of the store. In the
+:ountryside, the branches tend to be small, meaning a single
+:ncident has a much larger influence on the theft rate. There_
+rcre, the rural branches' rates vary greatly-much more than
+:he larger city branches. Ladies and gentlemen, I introduce you
+:o the lara of small numbers.It has just caught you out.,,
+the law of small numbers is not something we understand
+:r-rtuitively. Thus people-especially journalists, managers, and
+:oard members-continually fall for it. Let,s examine an ex_
+:reme example. Instead of the theft rate, consider the average
+'veight of employees in a branch. Instead of a thousand stores,
+'.re'11 take just two: a mega-branch and a mini-branch. The big
+.tore has one thousand empioyees; the small store just two. The
+r\rerage weight in the large branch corresponds roughly to the
+.rverage weight of the population, say 170 pounds. Regardless
+rf who is hired or fired, it will not change much. Unlike the
+)mal1 store: The store manager's colleague, if rotund or reedy,
+r.ill affect the average weight tremendously.
+Let's go back to the shoplifting problem. We now under-
+stand why the smaller a branch is, the more its theft rate will
+". ary-from extremely high to extremely low. No matter how
+:he consultant arranges his spreadsheet, if you list alr the theft
+:ates in order of size, small stores will appear at the bottom,
+-arge stores will take up the middle, and the top slots? Small
+.tores again. So, the CEO'' conclusion was useless, but at least
+re doesn't need to go overboard on a security system for the
+.mal1 stores.
+
+Suppose you read the following story in the newspaper:
+''Start-ups employ smarter people. A study commissioned by
+the National Institute of f]nnecessary Research has calculated
+
+183
+

@@ -1,0 +1,58 @@
+﻿, No Such Thing as an Average War
+rith Averages
+
+xrie on a bus with forty-nine other people' At
+stop, the heaviest person in America gets on-
+: Br- hou, much has the average weight of the
+r-.edi Four percent? Five? Something like thati
+stops again, and on gets Bill Gates. This time
+erned about weight. Qrestion: By how much
+uealib risen? Four percent? Five? Far from itl
+r the second example quickly. Suppose each of
+elected individuals has assets of $54,000. ThL'
+middle value, the median. Then Bill Gates is
+-r, s'ith his fortune of around $59 billion. The
+ire-. iust shot up to $1.15 billion, an increase ot-
+mi-iIion percent. A single outlier has radicalh-
+ure. rendering the term "average" completeh
+
+a rir-er if rt is (on arterage) four feet deep," warns
+iom u hom I have the above examples. The river
+rllorr tbr long stretches-mere inches-but it
+a into a raging torrent that is twenty feet deep
+
+5?,olf Sobelli
+
+in the middle-in which case you could easily drown. Dealing
+in averages is a risky undertaking because they often mask the
+underlying distribution-the way the values stack up.
+Another example: The average amount of UV rays you are
+exposed to on a June day is not harmful to your health. But
+if you were to spend the entire summer in a darkened office,
+then fly to Barbados and lie in the sun without sunscreen for a
+rveek solid, you would have a problem-even though, on aver-
+age over the summerr /ou were not getting more UV light than
+someone who was regularly outside.
+All this is quite straightforward and maybe you were awate
+of it already. For example, you drink one glass of red wine for
+dinner every evening. That's not a health issue. Many doctors
+recommend it. But if you drink no alcohol the entire year and,
+on December 31 you gulp 356 glasses, which is equivalent to
+:ixty bottles, you will have a problem, although the average
+over the year is the same.
+Here's the update: In a complex world, distribution is be-
+;oming more and more irregular. In other words, we will ob_
+serve the Bill Gates phenomenon in ever more domains. How
+=rany visits does an average website get? The answer is: There
+lre no average websites. A handful of sites (such as the Neut
+\Zrk Times, Facebook, or Google) garner the majority of vis-
+::s, and countless other pages draw comparutively few. In such
+;ases, mathematicians speak of the so-called power law. Take
+ities. There is one city on this planet with a population of more
+:ran thirty million: Tokyo. There are eleven cities with a popu_
+-ation of between twenty and thirty million. fhere are fifteen
+::ties with a population of between ten and twenty million.
+There are forty-eight cities between five and ten milrion inhab-
+
+165
+

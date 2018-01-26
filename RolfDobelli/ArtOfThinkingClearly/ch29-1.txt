@@ -1,0 +1,55 @@
+﻿rcing Force of the Universe" Is
+cJ-
+
+- of 1913, something incredible happened
+rio. Crogds gathered around a roulette table
+r beiier-e their eyes. The ball had landed on
+- i:r a rorv. Many players took advantage of
+:rd :mmediately put their money on red. But
+I ro come to rest on black. Even more people
+ie ro bet on red. It had to change eventually!
+r-et again-and again and again. It was not
+serenth spin that the ball eventually landed
+:e. rhe plavers had bet millions on the table.
+i.e *-heel, they were bankrupt.
+lof pupils in a big city is 100. To investigate
+:rdon sample of fifty students. The first child
+-of 150. What will the average IQof your
+llost peopie guess 100. Somehow, they think
+:rt student will be balanced out-perhaps,by
+n-irh an lQof 50 or by two below-average
+5 oi ,5. But with such a small sample, that is
+
+H,*!f 1]abeM
+
+very unlikely. We must expect that the remaining forty-nine
+students will represent the average of the population, so they
+will each have an average IQof 100. Forty-nine times L00 plus
+one IQof 150 gives us an average of 101 in the sample.
+The Monte Carlo example and the IQexperiment show
+that people believe in the "balancing force of the universe."
+This is the gambler'sfallacy. However, with independent events,
+there is no harmonizingforce at work: A ball cannot remember
+how many times it has landed on black. Despite this, one of
+my friends enters the weekly Mega Millions numbers into a
+spreadsheet, and then plays those that have appeared the least.
+A11 this work is for naught. He is another victim of the gam-
+bler'sfallacy.
+The following joke illustrates this phenomenon: A mathe-
+matician is afraid of flying due to the small risk of a terrorist at-
+tack. So, on every flight he takes a bomb with him in his hand
+luggage. "The probability of having a bomb on the plane is very
+low," he reasons, "and the probability of having two bombs on
+the same plane is virtually zero!"
+A coin is flipped three times and lands on heads on each
+occasion. Suppose someone forces you to spend thousands of
+dollars of your own money betting on the next toss. Would you
+bet on heads or tails? If you think like most people, you will
+choose tails, although heads is just as likely. the gambler's fal-
+lacyleads us to believe that something must change.
+A coin is tossed fifty times, and each time it lands on heads.
+-\gain, with someone forcing you to bet, do you pick heads or
+tails? Now that youVe seen an example or two, you're wise to
+the game: You know that it could go either way. But we've just
+.ome across another pitfall: the classic ddfarmation prafessioru-
+

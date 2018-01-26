@@ -1,0 +1,56 @@
+﻿T}:e Art *f Thirthing Cl**rly
+
+were mostly of the linear variety. Whoever spent twice the time
+collecting berries earned double the amount. Whoever huntec
+two mammoths instead of one could eat for twice as long. In
+the Stone Age, people rarely came across exponentiai growth.
+Today, things are different.
+"Each year, the number of traffic accidents rises by 7 per-
+cent," warns a politician. Let's be honest: We don't intuitivelr'
+understand what this means. So, let's use a trick and calculate
+the "doubling time." Start with the magic number of 70 ani
+divide it by the growth rate in percent. In this instance: 70 di-
+vided by 7 = 10 years. So what the politician is saying is: "The
+number of traffic accidents doubles every ten years." Pretn-
+alarming. (You may ask: "Why the number 70?" This has to do
+with a mathematical concept called logarithm. You can look i:
+up in the notes section.)
+Another example: "Inflation is at 5 percent." Whoever hears
+this thinks: "That's not so bad, what's 5 percent anyway?" Let =
+quickly calculate the doubling time: 70 divided by 5 = 14 year:.
+In fourteen years, a dollar will be worth only half what it ii
+today-a catastrophe for anyone who has a savings account'
+Suppose you are a journalist and learn that the number ol
+registered dogs in your city is rising by 10 percent ayear.Whicl:
+headline do you put on your article? Certainly not: "Dog Reg-
+istrations Increasing by 10 Percent." No one will care. Instead.
+announce: "Deluge of Dogs: Twice as Many Mutts in Seven
+Years'Time!"
+Nothing that grows exPonentially grows forever. Most poli-
+ticians, economists, and journalists forget that. Such growtl
+will eventually reach a limit. Guaranteed. For example, the in-
+testinal bacterium Escherichia coli divides every twenty minute=-
+
+102
+
+h just a few days, it could cover the whole
+:Jnsumes more oxygen and sugar than is ar
+,:as a cutoffpoint.
+The ancient Persians were well aware thi
+,'ith percentage growth. Here is a local ta
+. rvise courtier who presented the king v
+I'loved by the gift, the king said to him: -'
+:,:ank you." "Your highness, I want nothing
+: - cover the chess board with rice, putting o
+:--e first square, and then on every subseqr
+::-: previous number of grains." The king ri-a
+i:- honor to you, dear courtier, that you pres
+-=ruest." But how much rice is that? The kir
+,"::k. Only when his servants began the tasl
+:: the first square, two grains of rice on the s
+r:iins of rice on the third, and so on-did
+, ,:ld need more rice than was growing on t
+\\rhen it comes to growth rates, do not rr
+:'. : don't have any. Accept it. What reallr.h
+r. '"r-ith low growth rates, the magic number
+

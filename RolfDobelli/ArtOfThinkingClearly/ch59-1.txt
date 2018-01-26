@@ -1,0 +1,59 @@
+﻿n Enemy, Give Him Information
+ias
+
+:or, -D:i rigor en la ciencia," which consists oj
+r:.:-z::;:rh. Jorge Luis Borges describes a spe-
+l;: ::::. .ountry, the science of cartographr- L
+:;: :,;:lv the most detailed of maps will do-
+:: ;. 'i.le of 1:1, as large as the country itseir-"
+r:- ::il:ze that such z map does not provide
+i: :::t:elv duplicates what they aheady knon.
+he t:t:reme case of the information bias, tht
+e ::i-::nation guarantees better decisions.
+; l,-"rlei in Miami a little while ago, I drew up
+go:d olIers. Right away, one jumped out a:
+:o nake sure I had found the best deal ani
+:=earching. I plowed my way through dozens
+r-; a:rd blog posts and clicked through counr-
+:deos. Two hours later, I could say for sure
+':el \i-as: the one I had liked at the start. The
+ional information did not lead to a better de-
+itran; if time is money, then I might as wbL
+Jence at the Four Seasons.
+
+Eolf Dobel]i
+
+Jonathan Baron from the University of pennsylvania asked
+physicians the following question: A patient presents symp_
+:oms that indicate with a probability of g0 percent that he is
+suffering from disease A. If this is not the case, the patient has
+either disease X or y. Each of these diseases is etuaily bad,
+end each treatment results in similar side effects. As a doc_
+:or, what treatment would you suggest? Logically, you would
+rpt for disease A and recommend the relevant therapy. Now
+suppose there is a diagnostic test that flashes ,positivJ,when
+iisease X is present and "negative" when disease y is detected.
+However, if the patient really does have disease A, the test re_
+=::lts will be positive in 50 percent of the cases and negative in
+:re other .50 percent. Would you recommend conducting the
+:estl Most doctors said yes, even though the results would be
+:relevant. Assuming that the test result is positive, the prob_
+rbility of disease A is still much greater than that of disease X.
+The additional information contributes nothing of value to the
+iecision.
+
+Doctors are not the only professionals with a penchant for
+.:rrplus information. Managers and investors are almost ad_
+iicted to it. How often are studies commissioned one after the
+:ther, even though the critical facts are readily avairable? Addi-
+:ional information not only wastes time and money, it can also
+flt you at a disadvantage. consider this question: which city
+:as more inhabitants, San Diego or San Antonio? Gerd Giger_
+=:rzer of the Max Planck Institute in Germany put this question
+:r students in the University of Chicago and the University of
+]Iunich. Sixty-two percent of Chicago students guessed right:
+San Diego has more. But, astonishingly, every single German
+':udent answered correctly. The reason: Al1 of them had heard
+
+177
+
